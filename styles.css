@@ -1,5 +1,5 @@
 body {
-background: black;
+background: darkpink;
 font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
@@ -10,7 +10,7 @@ text-align: center;
 display: flex;
 padding: 8px;
 margin: 10px;
-background: blue;
+background: pink;
 }
 .assign img {
 width: 300px;
