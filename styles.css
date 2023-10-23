@@ -6,7 +6,7 @@ h1 {
 color: darkgrey;
 text-align: center;
 }
-.assign img{
+.assign {
 display: flex;
 padding: 8px;
 margin: 10px;
