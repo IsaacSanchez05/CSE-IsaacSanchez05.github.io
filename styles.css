@@ -1,18 +1,19 @@
 body {
-background: [blue];
+background: garnet;
 font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-color: [black];
+color: darkgrey;
 text-align: center;
 }
 .assign {
 display: flex;
 padding: 10px;
 margin: 10px;
-background: [blue];
+background: garnet;
 }
 .assign img {
 width: 200px;
 padding: 10px;
+  background: garnet;
 }
