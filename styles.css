@@ -22,7 +22,7 @@ a {
 }
 .assign img {
  padding: 10px; /* change this from margin to padding */
- border: 2px solid pink; /* try dashed, dotted */
+ border: 2px dotted white; /* try dashed, dotted */
 }
 .assign {
  border-radius: 20px; /* curved corners */
